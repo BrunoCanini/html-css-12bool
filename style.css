@@ -3,4 +3,11 @@
     border: 1px solid white;
     color: white;
     padding: 1rem;
+    text-align: center;
+    /* align-items: center; */
+}
+
+.bc-green{
+    background-color: green;
+    border: 1px solid rgb(0, 140, 255) ;
 }
